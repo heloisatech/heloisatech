@@ -9,7 +9,6 @@
 - 📚 I’m currently learning C++
 - 📫 How to reach me: [Here](https://hlinformatica.tec.br)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Sometimes people are surprised that I'm a woman. Why?
 
 ---
 
