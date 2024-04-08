@@ -4,10 +4,9 @@
 :octocat: **A little about myself**
 <br>
 
-- 👩🏽‍💻 I’m currently work as a Web developer, Computer Technician and Graphic Designer
+- 👩🏽‍💻 I’m currently work as a Web Developer, Computer Technician
 - 💚 I'm from Brazil
 - 📚 I’m currently learning C++
-- 📫 How to reach me: [Here](https://hlinformatica.tec.br)
 - 😄 Pronouns: She/Her
 
 ---
