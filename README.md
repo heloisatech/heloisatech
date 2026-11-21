@@ -1,17 +1,16 @@
-### Hi there 👋 
+:octocat: **About myself**
 <br>
 
-:octocat: **A little about myself**
-<br>
-
-- 👩🏽‍💻 I’m currently work as a Web Developer, Computer Technician
-- 💚 I'm from Brazil
-- 📚 I’m currently learning C++
+- 👩🏽‍💻 I have been an IT Technician for over 20 years
+- 👩🏽‍💻 Front-end Developer
+- 📚 Currently learning C++
+- 💚 Brazilian
 - 😄 Pronouns: She/Her
 
 ---
 
-🖥 **I work with:**
+<img src="https://devicons.io/devicons/icons/html-5.svg" alt="" width="32" height="32" /> <img src="https://devicons.io/devicons/icons/css-3.svg" alt="" width="32" height="32" /> <img src="https://devicons.io/devicons/icons/javascript.svg" alt="" width="32" height="32" /> <img src="https://devicons.io/devicons/icons/typescript-icon.svg" alt="" width="32" height="32" /> <img src="https://devicons.io/devicons/icons/react.svg" alt="" width="32" height="32" /> <img src="https://devicons.io/devicons/icons/c-plusplus.svg" alt="" width="32" height="32" /> <img src="https://devicons.io/devicons/icons/python.svg" alt="" width="32" height="32" /> <img src="https://devicons.io/devicons/icons/php.svg" alt="" width="32" height="32" /> <img src="https://devicons.io/devicons/icons/mysql.svg" alt="" width="32" height="32" /> 
 
+---
 
 
